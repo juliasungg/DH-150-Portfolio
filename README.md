@@ -6,7 +6,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
 
-https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%20%232/README.md
+[read more....](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%20%232/README.md)
 
 
 ## User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
