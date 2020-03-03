@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Project title + Your name
+Introduction: a brief information about the project. What is the project about? The motivation of the project and possible contribution.
 
-You can use the [editor on GitHub](https://github.com/juliasungg/DH-150-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Clear design statement: 
+What is the issue and Why do you think it is important to resolve that issue by your project?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
 
-### Markdown
+## User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
 
-```markdown
-Syntax highlighted code block
+## Wireframe and graphic design element variation [assignment07 + part of 08]
 
-# Header 1
-## Header 2
-### Header 3
+## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-- Bulleted
-- List
+## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
 
-1. Numbered
-2. List
+## Optional evaluation and revision history Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-**Bold** and _Italic_ and `Code` text
+## Pitch video
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliasungg/DH-150-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Conclusion: what did you learn throughout the process?
